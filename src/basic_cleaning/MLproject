@@ -6,27 +6,27 @@ entry_points:
     parameters:
 
       input_artifact:
-        description: ## ADD DESCRIPTION
+        description: Input data Weight and Biases artifact identifier
         type: string
 
       output_artifact:
-        description: ## ADD DESCRIPTION
+        description: Output clean data Weight and Biases artifact identifier
         type: string
 
       output_type:
-        description: ## ADD DESCRIPTION
+        description: Type of output artifact
         type: string
 
       output_description:
-        description: ## ADD DESCRIPTION
+        description: Description of output artifact
         type: string
 
       min_price:
-        description: ## ADD DESCRIPTION
+        description: Minimum price for data price filter
         type: string
 
       max_price:
-        description: ## ADD DESCRIPTION
+        description: Maximum price for data price filter
         type: string
 
 
