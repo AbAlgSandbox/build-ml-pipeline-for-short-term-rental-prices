@@ -1,3 +1,17 @@
+# Project Details
+
+## Weight and Biases Project Link
+This project is tied to the Weight and Biases project residing at:
+https://wandb.ai/abalgsandbox/nyc_airbnb/overview
+
+## Submission GitHub Link
+This project release version is to be considered the one residing at and with root, along with accompanying release version:
+https://github.com/AbAlgSandbox/build-ml-pipeline-for-short-term-rental-prices.git
+Release Version: 1.0.1
+
+
+The rest of the Readme is the original instructions upon which this project submission is based.
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
